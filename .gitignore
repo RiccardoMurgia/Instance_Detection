@@ -1,2 +1,7 @@
 .venv
 .idea
+
+models_multiple_instances
+models_single_instance
+scenes_single_instance
+scenes_multiple_instances
